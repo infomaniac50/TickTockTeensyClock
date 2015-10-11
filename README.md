@@ -2,9 +2,9 @@
 
 ### Parts
 
- - Teensy 3.1
- - LinkSprite LCD Shield
- - Sparkfun Teensy Arduino Adapter Shield
+ - [Teensy 3.1](http://www.pjrc.com/teensy/index.html)
+ - [LinkSprite LCD Shield](https://www.sparkfun.com/products/13293)
+ - [Sparkfun Teensy Arduino Adapter Shield](https://www.sparkfun.com/products/13288)
 
 ### Setting the Time
 
